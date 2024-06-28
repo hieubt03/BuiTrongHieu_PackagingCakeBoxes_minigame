@@ -1,11 +1,3 @@
-
-
-Assets/UIAssets/
-Assets/UI Toolkit/
-Assets/TextMesh Pro/
-Assets/Editor/
-Assets/Adaptive Performance/
-
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
